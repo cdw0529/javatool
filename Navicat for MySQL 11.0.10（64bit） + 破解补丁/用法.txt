@@ -1,0 +1,2 @@
+先安装navicat110_mysql_cs_x64.exe
+安装成功后PatchNavicat.exe覆盖到安装目录下
